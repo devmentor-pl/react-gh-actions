@@ -17,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Vue with devmentor.pl
+          Learn React with devmentor.pl
         </a>
 
       </header>
